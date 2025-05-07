@@ -8,4 +8,4 @@ while True:
     print("I love singapore poly")
 ```
 
-*** -FIN ***
+***-FIN***
