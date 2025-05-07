@@ -3,8 +3,9 @@
 Text
 >Quoted text
 
-'''
+```
 while True:
     print("I love singapore poly")
-'''
+```
+
 *** -FIN ***
